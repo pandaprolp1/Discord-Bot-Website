@@ -48,17 +48,17 @@ export default function AwardApp({ Component, pageProps }) {
     },
        {
       link: true,
-      name: "Vote",
+      name: "Oy",
       icon: "fa fa-plus",
       activeIcon: "fa fa-plus",
-      href: "https://top.gg/bot/774043716797071371/vote",
+      href: "",
     },
     {
       link: true,
-      name: "Partners",
+      name: "Ortaklar",
       icon: "fal fa-handshake",
       activeIcon: "fa fa-handshake",
-      href: "/partners",
+      href: "/Ortaklar",
     }
   ]
 
