@@ -3,11 +3,11 @@ import Link from "next/link";
 
 export default function Commands() {
   const commands = [
-    "/help",
-    "/invite",
-    "/lyrics",
-    "/ping",
-    "/stats",
+    "-yardım",
+    "-avatar",
+    "-istatistik",
+    "-davet",
+    "-küfür-engel",
     "/setdj",
     "/play",
     "/serach",
