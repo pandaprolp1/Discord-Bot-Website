@@ -20,31 +20,31 @@ export default function AwardApp({ Component, pageProps }) {
   const NavItems = [
     {
       link: true,
-      name: "Home",
+      name: "Ev",
       icon: "fal fa-home",
       activeIcon: "fa fa-home",
       href: "/",
     },
     {
       link: true,
-      name: "Commands",
+      name: "Komutlar",
       icon: "fa fa-list-alt",
       activeIcon: "fa fa-list-alt",
       href: "/commands",
     },
     {
       link: true,
-      name: "Support",
+      name: "Destek",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/ZcDprCrFTn",
+      href: "https://discord.gg/qrsfCsFd",
     },
     {
       link: true,
-      name: "Add Bot",
+      name: "Bot Ekle",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028603968&scope=applications.commands%20bot",
+      href: "https://discord.com/api/oauth2/authorize?client_id=1175125230721716234&permissions=8&scope=bot",
     },
        {
       link: true,
