@@ -11,6 +11,7 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
+           content="sa."
             content=""
           />
           <meta name="twitter:card" content="summary" />
