@@ -18,7 +18,7 @@ class MyDocument extends Document {
           <meta name="twitter:creator" content="@MusicMaker" />
           <meta property="og:url" content="https://musicmaker.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="MusicMaker" />
+          <meta property="og:title" content="Rias Bot" />
           <link
             rel="icon"
             href="/img/logo2.png"
