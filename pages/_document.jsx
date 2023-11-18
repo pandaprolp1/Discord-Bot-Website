@@ -11,7 +11,7 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content=""
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@MusicMaker" />
@@ -33,7 +33,7 @@ class MyDocument extends Document {
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="MusicMaker"
+            content="Rias Bot"
           />
           <meta name="theme-color" content="#6108dd" />
           <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
