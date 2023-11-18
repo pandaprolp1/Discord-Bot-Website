@@ -58,7 +58,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Ortaklar",
       icon: "fal fa-handshake",
       activeIcon: "fa fa-handshake",
-      href: "/Ortaklar",
+      href: "/Partners",
     }
   ]
 
